@@ -1,1 +1,1 @@
-# This is the first ever game created by me. I used Unreal Engine 4. I gained a basic idea of how the unreal engine works and understood important concepts regarding game development. From 2D/3D mathematics to animation and game design and game programming.
+# First ever game
